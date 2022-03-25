@@ -1,0 +1,1 @@
+The images contained within this folder belong to me (William James Davis) and are under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Please do not use or distribute them without first contacting me.
