@@ -14,7 +14,12 @@ The general workflow for molecular phylogenetics is:
 
 # Getting to know the organisms
 
- The organisms I choose to use for this example are white rusts, specifically the genus *Albugo* and its allies. *Albugo*, *Pustula*, and *Wilsoniana*
+[![Albugo on Cardamine](https://github.com/wjdavis90/Tutorials/blob/main/Phylogenetics/images/Albugo.jpeg)](https://www.inaturalist.org/observations/75608199)
+
+The organisms I choose to use for this example are white rusts, specifically the genus *Albugo* and its allies. The image above shows a leaf of a [*Cardamine* sp.](https://en.wikipedia.org/wiki/Cardamine) heavily infected with a white rust (the pustules) in the genus *Albugo* (specifically a member of the [*Albugo candida*](https://www.cabi.org/isc/datasheet/4051) [species complex](https://en.wikipedia.org/wiki/Species_complex)). 
+
+
+*Albugo*, *Pustula*, and *Wilsoniana*
 
 # Theory of Molecular Phylogenetics
 
