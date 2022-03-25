@@ -14,7 +14,7 @@ The general workflow for molecular phylogenetics is:
 
 # Getting to know the organisms
 
-ALBUGO and cox2
+ The organisms I choose to use for this example are white rusts, specifically the genus *Albugo* and its allies. *Albugo*, *Pustula*, and *Wilsoniana*
 
 # Theory of Molecular Phylogenetics
 
