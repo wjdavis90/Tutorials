@@ -16,7 +16,9 @@ The general workflow for molecular phylogenetics is:
 
 [![Albugo on Cardamine](https://github.com/wjdavis90/Tutorials/blob/main/Phylogenetics/images/Albugo.jpeg)](https://www.inaturalist.org/observations/75608199)
 
-The organisms I choose to use for this example are white rusts, specifically the genus *Albugo* and its allies. The image above shows a leaf of a [*Cardamine* sp.](https://en.wikipedia.org/wiki/Cardamine) heavily infected with a white rust (the pustules) in the genus *Albugo* (specifically a member of the [*Albugo candida*](https://www.cabi.org/isc/datasheet/4051) [species complex](https://en.wikipedia.org/wiki/Species_complex)). 
+The organisms I choose to use for this example are white rusts, specifically the genus *Albugo* and its allies. The image above shows a leaf of a [*Cardamine* sp.](https://en.wikipedia.org/wiki/Cardamine) heavily infected with a white rust (the pustules) in the genus *Albugo* (specifically a member of the [*Albugo candida*](https://www.cabi.org/isc/datasheet/4051) [species complex](https://en.wikipedia.org/wiki/Species_complex)).
+
+The white rusts were initially described as fungal taxa in the order Pucciniales; however, it was later realized that they are not Fungi but rather are members of [Oomycota](https://ucmp.berkeley.edu/chromista/oomycota.html). Oomycetes are morphologically and ecologically similar to [Fungi](https://en.wikipedia.org/wiki/Fungus) but differ in key ways, including, but not limited to, cell wall components and lysine synthesis [^1]. After this realization, the genus *Albugo* was erected in 1806 [^2]
 
 
 *Albugo*, *Pustula*, and *Wilsoniana*
@@ -32,3 +34,6 @@ The organisms I choose to use for this example are white rusts, specifically the
 ## Tree inference
 
 ## How to read phylogenetic trees
+
+
+[^1]: My Ph. D. advisor Martha Powell (and others, including myself) make the distinction between fungi and Fungi. "fungi" (with a lowercase f) is a morphological and ecological grouping that includes organisms that grow into their food, secrete enzymes to break down that food, and absorb the nutrients released during the breakdown. Additionally, fungi produce spore bearing structures during reproduction. Thus, fungi includes Holomycota (Fungi), oomycetes, and slime molds; it is a [polyphyletic group](https://www.mun.ca/biology/scarr/Taxon_types.htm). "Fungi" (with an uppercase F), on the other hand, only refers to the [monophyletic clade](https://www.mun.ca/biology/scarr/Taxon_types.htm) containing the following characters: chitin cell walls, AAA lysine synthesis, 
