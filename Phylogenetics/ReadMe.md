@@ -20,25 +20,63 @@ The organisms I choose to use for this example are white rusts, specifically the
 
 The white rusts were initially described as fungal taxa in the order Pucciniales; however, it was later realized that they are not Fungi but rather are members of [Oomycota](https://ucmp.berkeley.edu/chromista/oomycota.html). Oomycetes are morphologically and ecologically similar to [Fungi](https://en.wikipedia.org/wiki/Fungus) but differ in key ways, including, but not limited to, cell wall components and lysine synthesis [^1]. Later it was realized that the white rusts were oomycetes. Still later,Thines and Spring (2005)[^2] separated out some taxa and placed them in the new genera *Pustula* and *Wilsoniana* based on a combination of morphology, host ranges, and molecular phylogenetics. Since then there has been a great deal of work done to revise the genera and species using morphology and molecular phylogenetics.[^3] We are going to use the data from some of these studies in this example.
 
-
-
-
-
-
-*Albugo*, *Pustula*, and *Wilsoniana*
+Molecular phylogenetics of oomycetes relies primarily on cox2. [give details about what this locus is and why it is used reasons]
 
 # Theory of Molecular Phylogenetics
 
+Brief intro into taxonomy, phylogenetics, and systematics.
+
+Ideas to include:
+- best system of classification (taxonomy)
+- what is a charater? what is a character?
+- synapomorphies
+- what makes a good character?
+- What is homology?
+
 ## Selection of taxa and loci
+
+Brief overview of many taxa versus many loci arguments
+
+want loci that are
+- easy to amplify (though this is less important in the age of whole gneome sequencing)
+- single copy orthologs
+- have both conserved and variable reagions
+- perhaps use 16S/18S and 28s as examples 
 
 ## Generating alignments
 
+Ideas to touch on: 
+- each position is one character
+  - A, T, C, G, U (or the amino acids) are character states
+- Alignment is a hypothesis of homology
+
 ## Models of evolution & Model selection
+
+Rely on and refer to the explanation in partitionfinders manual
+
+Ideas to touch on
+- what are models of evolution?
+- Why do we need to (or not need to) select models?
+
+Be sure to mention that paper that says model selection is not critical for topology
+
+Also include the paper that says modeul selection is important for support and branch lengths (i.e., that lady and mitochondria and animals)
 
 ## Tree inference
 
+Maximum likeliihood
+- philosopy
+- math
+
+Bayes
+- philosophy
+- math
+
 ## How to read phylogenetic trees
 
+Discuss how the proper way to read trees is by the nodes, not branch arrangement
+
+Discuss (and link to papers) why it is inappropriate to call lineages "basal" or "early diverging". 
 
 [^1]: My Ph. D. advisor Martha Powell (and others, including myself) make the distinction between fungi and Fungi. "fungi" (with a lowercase f) is a morphological and ecological grouping that includes organisms that grow into their food, secrete enzymes to break down that food, and absorb the nutrients released during the breakdown. Additionally, fungi produce spore bearing structures during reproduction. Thus, fungi includes Holomycota (Fungi), oomycetes, and slime molds; it is a [polyphyletic group](https://www.mun.ca/biology/scarr/Taxon_types.htm). "Fungi" (with an uppercase F), on the other hand, only refers to the [monophyletic clade](https://www.mun.ca/biology/scarr/Taxon_types.htm) containing the following characters: chitin cell walls, AAA lysine synthesis, and a posterior, whiplash flagellum. Fungi includes organisms like the mushrooms on pizza and the yeast in bread. (You may be thinking at this point "But Fungi don't have flagella." Au contraire mon amie, [they do](https://youtu.be/MbeU5PKbUrs). 
 
