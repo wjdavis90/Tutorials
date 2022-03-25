@@ -18,7 +18,9 @@ The general workflow for molecular phylogenetics is:
 
 The organisms I choose to use for this example are white rusts, specifically the genus *Albugo* and its allies. The image above shows a leaf of a [*Cardamine* sp.](https://en.wikipedia.org/wiki/Cardamine) heavily infected with a white rust (the pustules) in the genus *Albugo* (specifically a member of the [*Albugo candida*](https://www.cabi.org/isc/datasheet/4051) [species complex](https://en.wikipedia.org/wiki/Species_complex)).
 
-The white rusts were initially described as fungal taxa in the order Pucciniales; however, it was later realized that they are not Fungi but rather are members of [Oomycota](https://ucmp.berkeley.edu/chromista/oomycota.html). Oomycetes are morphologically and ecologically similar to [Fungi](https://en.wikipedia.org/wiki/Fungus) but differ in key ways, including, but not limited to, cell wall components and lysine synthesis [^1]. After this realization, the genus *Albugo* was erected in 1806 [^2] with *Albugo candida* as the type species. Later, Thines and Spring (2005)[^3] separated out some taxa and placed them in the new genera *Pustula* and *Wilsoniana* based on a combination of morphology, host ranges, and molecular phylogenetics. 
+The white rusts were initially described as fungal taxa in the order Pucciniales; however, it was later realized that they are not Fungi but rather are members of [Oomycota](https://ucmp.berkeley.edu/chromista/oomycota.html). Oomycetes are morphologically and ecologically similar to [Fungi](https://en.wikipedia.org/wiki/Fungus) but differ in key ways, including, but not limited to, cell wall components and lysine synthesis [^1]. Later it was realized that the white rusts were oomycetes. Still later,Thines and Spring (2005)[^2] separated out some taxa and placed them in the new genera *Pustula* and *Wilsoniana* based on a combination of morphology, host ranges, and molecular phylogenetics. Since then there has been a great deal of work done to revise the genera and species using morphology and molecular phylogenetics.[^3] We are going to use the data from some of these studies in this example.
+
+
 
 
 
@@ -40,6 +42,6 @@ The white rusts were initially described as fungal taxa in the order Pucciniales
 
 [^1]: My Ph. D. advisor Martha Powell (and others, including myself) make the distinction between fungi and Fungi. "fungi" (with a lowercase f) is a morphological and ecological grouping that includes organisms that grow into their food, secrete enzymes to break down that food, and absorb the nutrients released during the breakdown. Additionally, fungi produce spore bearing structures during reproduction. Thus, fungi includes Holomycota (Fungi), oomycetes, and slime molds; it is a [polyphyletic group](https://www.mun.ca/biology/scarr/Taxon_types.htm). "Fungi" (with an uppercase F), on the other hand, only refers to the [monophyletic clade](https://www.mun.ca/biology/scarr/Taxon_types.htm) containing the following characters: chitin cell walls, AAA lysine synthesis, and a posterior, whiplash flagellum. Fungi includes organisms like the mushrooms on pizza and the yeast in bread. (You may be thinking at this point "But Fungi don't have flagella." Au contraire mon amie, [they do](https://youtu.be/MbeU5PKbUrs). 
 
-[^2]: http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=20015
+[^2]: Thines M, Spring O (2005) A revision of Albugo (Chromista, Peronosporomycetes). Mycotaxon 92:443–458 [Cyberliber link](http://www.cybertruffle.org.uk/cyberliber/59575/0092/0443.htm)
 
-[^3]: Thines M, Spring O (2005) A revision of Albugo (Chromista, Peronosporomycetes). Mycotaxon 92:443–458 [Cyberliber link](http://www.cybertruffle.org.uk/cyberliber/59575/0092/0443.htm)
+[^3]: See, for example, ...lisdt of authors year with doi links
