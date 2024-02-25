@@ -32,7 +32,7 @@ xlim(NA, 10)
 
 `ggtree(skunk_tree)` works similar to ggplot2. `branch.length="none"` let's R know that there are no branch lengths with this dataset. `%<+% tip_labels` appends the dataframe containing the new tip labels and the data we want associated with them to the tree. With `geom_tiplab(aes(label= label_pretty))`, we direct ggtree to the appropriate column within `tip_labels` for the new tip labels. Finally, the ggtree will likely cut off the new tip labels, so we must use `xlim()` to adjust the size of the tree until the labels are not cut off. Let's see the resulting tree.
 
-[insert image here]
+![first tree image](https://github.com/wjdavis90/Tutorials/blob/main/R/Phylogenetic_trees/images/skunk_cabbage_phylogeny1.tiff)
 
 Now, let's color code the clades according to continent.
 
