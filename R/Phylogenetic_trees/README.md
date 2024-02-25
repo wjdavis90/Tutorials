@@ -1,0 +1,3 @@
+# Introduction
+
+Welcome! This is a brief tutorial on using [ggtree](https://rdrr.io/github/GuangchuangYu/ggtree/f/README.md) in R to visualize phylogenetic trees. [Here](https://guangchuangyu.github.io/ggtree-book/short-introduction-to-r.html) is a decent overview of ggtree and the various things it is capable of. For this tutorial, I used the phylogenetic trees and information in [Haigh et al. 2022](https://doi.org/10.1002/ajb2.16117), [Lee et al. 2022](https://doi.org/10.1111/jse.12498), [Lee et al. 2021](https://doi.org/10.11110/kjpt.2021.51.1.1), and [Tippery et al. 2021](https://doi.org/10.3390/plants10122639) to create 
